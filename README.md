@@ -31,3 +31,16 @@ Ao final da análise, esperamos:
 - Demonstrar que a cafeteria pode **se manter relevante** mesmo após o "efeito novidade".
 
 Este estudo de mercado será o primeiro passo para transformar nossa ideia em um **case de sucesso tecnológico e gastronômico** em Los Angeles.
+
+## 🗂️Descrição de dados
+
+Tabela rest_data:
+  object_name — nome de estabelecimento
+  
+  chain — estabelecimento de rede (TRUE/FALSE)
+  
+  object_type — tipo de estabelecimento
+  
+  address — endereço
+  
+  number — número de assentos
